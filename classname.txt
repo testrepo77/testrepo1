@@ -5,6 +5,7 @@ Class A
 3. Aarnav
 4. Aarush
 5. Aayush
+6. bhavik OZa
 
 Class B
 
@@ -15,4 +16,3 @@ Class B
 5. Ekansh	
 6. Ekalinga	
 7. Ekapad	
-8. Bhavik OZa
